@@ -30,6 +30,26 @@ public enum WeekdayEN
     Saturday,
     Sunday
 }
+public enum WeekdayDA
+{
+    Mandag,
+    Tirsdag,
+    Onsdag,
+    Torsdag,
+    Fredag,
+    Lørdag,
+    Søndag
+}
+public enum WeekdayDE
+{
+    Montag,
+    Dienstag,
+    Mittwoch,
+    Donnerstag,
+    Freitag,
+    Samstag,
+    Sonntag
+}
 
 public enum SearchSpecifier
 {
